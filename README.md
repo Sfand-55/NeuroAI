@@ -221,7 +221,7 @@ Contributions are welcome! Please:
 ## Contact & Support
 
 For questions, issues, or collaborations:
-- 📧 Email: [your-email@domain.com]
+- 📧 Email: [sandeshfand55@gmail.com]
 - 🐛 Issues: [GitHub Issues]
 - 💬 Discussions: [GitHub Discussions]
 
